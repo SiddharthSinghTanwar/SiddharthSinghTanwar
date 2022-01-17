@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SiddharthSinghTanwar
 - 👀 I’m interested in ...learning new technologies and being a factor in driving technological changes.
-- 🌱 I’m currently learning ...computer science engineering.
+- 🌱 I’m also a Computer Science engineering student.
 - 💞️ I’m looking to collaborate on ...massive /short consequential projects.
-- 📫 How to reach me ...siddh12tanwar@gmail.com
+- 📫 How to reach me ...siddharthtanwar28@gmail.com
 
 <!---
 SiddharthSinghTanwar/SiddharthSinghTanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
