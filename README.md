@@ -1,14 +1,16 @@
 
 # Hi, I'm Siddharth 👋
 
-I am an impassioned Computer Science Engineer, driven by a curiosity for technology and a love for writing and reading. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community. Feel free to connect with me on any of the social media apps as I want to collaborate and geek out on projects and ideas.
+I am a resourceful and adaptable professional who thrives on solving problems efficiently, leveraging technology to streamline processes and simplify complexity. With a versatile skill set and a passion for understanding intricate systems and logistical puzzles—be they human or machine—I bring innovative solutions to the table that create meaningful impact.
 
 ![SiddharthSinghTanwar's Stats](https://github-readme-stats.vercel.app/api?username=SiddharthSinghTanwar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my love for Computer Science, making applications using various web technologies, and doing data analysis using machine learning techniques.
+- 📜 My Resume: [Resume](https://drive.google.com/file/d/12lkQvL9eYGSvdG5FC2J5ysCtutWvHtJ_/view?usp=sharing)
 - 📝 I write in-depth, long-form articles on [My blogs](https://dev.to/siddharth_singhtanwar_6a).
+  
 
 ## My Articles
 - [Recreating a 1.2 million pounds worth of art with code](https://dev.to/siddharth_singhtanwar_6a/creating-art-similar-to-12-million-pounds-worth-of-painting-4ef)
@@ -27,6 +29,7 @@ I am an impassioned Computer Science Engineer, driven by a curiosity for technol
  ## 🏆 Achievements
 
 - 🌟 Participated in Seimens Healthineers Global Innovation Think Tank Competition where I as part of a team implemented an innovative idea to solve real-world problems.
+- 🌟 Cleared GATE Exam (Graduate Aptitude Test in Engineering) 2024 
 
 
 ## 📬 Get in Touch
