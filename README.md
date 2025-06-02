@@ -7,8 +7,8 @@ I am a resourceful and adaptable professional who thrives on solving problems ef
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my love for Computer Science, making applications using various web technologies, and doing data analysis using machine learning techniques.
-- 📜 My Resume: [Resume](https://drive.google.com/file/d/12lkQvL9eYGSvdG5FC2J5ysCtutWvHtJ_/view?usp=sharing)
+- 🔭 I'm currently pursuing my love for Computer Science, developing applications using various web technologies, and conducting data analysis using machine learning techniques.
+
 - 📝 I write in-depth, long-form articles on [My blogs](https://dev.to/siddharth_singhtanwar_6a).
   
 
