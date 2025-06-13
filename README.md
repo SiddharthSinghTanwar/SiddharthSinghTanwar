@@ -16,26 +16,22 @@ I am a resourceful and adaptable professional who thrives on solving problems ef
 - [Recreating a 1.2 million pounds worth of art with code](https://dev.to/siddharth_singhtanwar_6a/creating-art-similar-to-12-million-pounds-worth-of-painting-4ef)
 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,git,docker,c,django,flask,linux,mysql,sqlite,postman,tensorflow)](https://skillicons.dev)
-
 ## 🌱 Currently Exploring
 
 - 🚀 Full Stack Web Development
-  - Exploring the ins and outs of Django and Flask for backend logic.
-  - Building server-side applications with Django.
+  - Exploring the ins and outs of Flask for backend logic.
   - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
 
-- 🌟 Participated in Seimens Healthineers Global Innovation Think Tank Competition where I as part of a team implemented an innovative idea to solve real-world problems.
+- 🌟 Participated in Siemens Healthineers Global Innovation Think Tank Competition, where I, as part of a team, implemented an innovative idea to solve real-world problems.
 - 🌟 Cleared GATE Exam (Graduate Aptitude Test in Engineering) 2024 
 
 
 ## 📬 Get in Touch
 
 - Connect with me on [X](https://x.com/siddtwts)
-- Connect with me on [LinkenIn](https://www.linkedin.com/in/siddharth-singh-tanwar/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/siddharth-singh-tanwar/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
