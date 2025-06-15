@@ -2,9 +2,9 @@
 # Hi, I'm Siddharth 👋
 
 I am a resourceful and adaptable professional who thrives on solving problems efficiently, leveraging technology to streamline processes and simplify complexity. With a versatile skill set and a passion for understanding intricate systems and logistical puzzles—be they human or machine—I bring innovative solutions to the table that create meaningful impact.
-
+<!--
 ![SiddharthSinghTanwar's Stats](https://github-readme-stats.vercel.app/api?username=SiddharthSinghTanwar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+-->
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my love for Computer Science, developing applications using various web technologies, and conducting data analysis using machine learning techniques.
